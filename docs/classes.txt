@@ -1,0 +1,50 @@
+___________________________________________
+Classes
+___________________________________________
+
+One class is the abstraction of a collection
+of objects.
+
+Public atributes
+Private attributes
+
+#id --> private sintax
+private id: number
+
+Encapsulation, in POO, based in the
+public and private sintax.
+
+protected: --> intermediate access.
+One member protected can be accessible from the
+class and also subclasess.
+
+___________________________________________
+Access modifiers SET and GET
+___________________________________________
+We can use that modifiers, to intercept the
+private access in an object.
+SET and GET
+
+We just capture or intercept that values.
+
+___________________________________________
+Extends Interfaces -> inheritance
+___________________________________________
+
+extends SuperClase
+Is important to call de super(params)
+constructor with the params.
+
+___________________________________________
+Abstract Classes
+___________________________________________
+When one Super class is too much General,
+and we want to avoid create intances from that class.
+
+We can use the concept of Abstract class.
+abstract class Item {}
+
+Minds we cannot create objects based in that
+class, or calling the constructor.
+
+

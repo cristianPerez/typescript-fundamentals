@@ -1,0 +1,20 @@
+___________________________________________
+Modules
+___________________________________________
+Used to organize the code and reuse it self.
+
+
+___________________________________________
+Import and export modules
+___________________________________________
+We can create module for utils, features, etc.
+
+___________________________________________
+Unique responsability - SOLID
+___________________________________________
+
+Ieally every file should have a unique propose.
+Every class, enum or interface.
+Spliting the files by one propose help us with
+the visibility, readability, testability and
+also help us with the maintenance.

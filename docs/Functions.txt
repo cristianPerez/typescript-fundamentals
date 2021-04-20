@@ -1,0 +1,8 @@
+___________________________________________
+Functions
+___________________________________________
+You can set types in the function's params.
+You can define optional parameters.
+
+The return type of any funtion could be
+basic, enum, alias, literal type, or a mix of them.

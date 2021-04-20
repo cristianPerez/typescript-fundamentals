@@ -1,0 +1,32 @@
+___________________________________________
+Interfaces
+___________________________________________
+
+POO Paradigm.
+We define a contract for our code.
+Interface is a contex, and we can define it
+and used like a type of data in our app.
+
+Entities:
+
+User
+Album
+Picture
+enum: PhotoOrientation
+
+Optionals: ?
+
+Also you can manage readonly params,
+to avoid it changed.
+
+we can use the readonly word before
+the property name.
+
+
+___________________________________________
+Extends Interfaces -> inheritance
+___________________________________________
+You can copy all member from any interface
+to another, with that beahviour we can
+get flexibility and reusability.
+
